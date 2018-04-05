@@ -46,6 +46,7 @@
 		AC0F03F72072E7B8001B3545 /* TheatersMapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC0F03F62072E7B8001B3545 /* TheatersMapViewController.swift */; };
 		AC0F03F92072ECA0001B3545 /* Theater.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC0F03F82072ECA0001B3545 /* Theater.swift */; };
 		AC0F03FB2072F77E001B3545 /* TheaterAnnotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC0F03FA2072F77E001B3545 /* TheaterAnnotation.swift */; };
+		AC4250D72075A76700D8F524 /* WebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC4250D62075A76700D8F524 /* WebViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -90,6 +91,7 @@
 		AC0F03F62072E7B8001B3545 /* TheatersMapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TheatersMapViewController.swift; sourceTree = "<group>"; };
 		AC0F03F82072ECA0001B3545 /* Theater.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Theater.swift; sourceTree = "<group>"; };
 		AC0F03FA2072F77E001B3545 /* TheaterAnnotation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TheaterAnnotation.swift; sourceTree = "<group>"; };
+		AC4250D62075A76700D8F524 /* WebViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -137,6 +139,7 @@
 				0778E3C31E88EEE700BF38C5 /* images */,
 				AC0F03F82072ECA0001B3545 /* Theater.swift */,
 				AC0F03FA2072F77E001B3545 /* TheaterAnnotation.swift */,
+				AC4250D62075A76700D8F524 /* WebViewController.swift */,
 			);
 			path = MoviesLib;
 			sourceTree = "<group>";
@@ -275,6 +278,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0778E3711E88D4DB00BF38C5 /* MovieTableViewCell.swift in Sources */,
+				AC4250D72075A76700D8F524 /* WebViewController.swift in Sources */,
 				0703AD971E8553B2001FB5FD /* MoviesTableViewController.swift in Sources */,
 				AC0F03FB2072F77E001B3545 /* TheaterAnnotation.swift in Sources */,
 				07780D4F1E6D860E00BC3630 /* MovieViewController.swift in Sources */,
